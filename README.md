@@ -1,2 +1,2 @@
 # OmniFood
-OmniFood website - UDEMY
+first website project - source Udemy
